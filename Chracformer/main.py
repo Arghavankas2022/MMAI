@@ -1,4 +1,5 @@
 #Script for a Medical character based transformer aka characformer
+#Using the notebook of the course and the Zero to Hero course by Andrej Karpathy
 import torch
 import torch.nn as nn
 from torch.nn import functional as F
