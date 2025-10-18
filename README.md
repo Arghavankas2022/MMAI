@@ -1,1 +1,1 @@
-This repo inclues experimental tasks from the MMAI course. The course covers training strategies, LLM agents, tool use, reasoning, and methods for external knowledge integration, such as Retrieval-Augmented Generation (RAG) in the medical domain
+This repo inclues experimental tasks from the MMAI course. The course covers training strategies, LLM agents, tool use, reasoning, and methods for external knowledge integration, such as Retrieval-Augmented Generation (RAG) in the medical domain. 
