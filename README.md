@@ -1,1 +1,2 @@
 This repo inclues experimental tasks from the MMAI course. The course covers training strategies, LLM agents, tool use, reasoning, and methods for external knowledge integration, such as Retrieval-Augmented Generation (RAG) in the medical domain. 
+<img width="743" height="812" alt="Gemini_Generated_Image_nq5exonq5exonq5e" src="https://github.com/user-attachments/assets/6817245a-541e-489a-9e71-1e4b62864c95" />
